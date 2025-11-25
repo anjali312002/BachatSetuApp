@@ -30,7 +30,7 @@ BachatSetu is a personal finance tracking application that helps users manage th
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/jgarij/BachatSetuApp.git
+   git clone https://github.com/anjali312002/BachatSetuApp.git
    cd BachatSetuApp
 2. npm install 
 3. npm start
